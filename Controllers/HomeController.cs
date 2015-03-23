@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using Tesseract;
 
 
-namespace tesseract_aspnet.Models
+namespace tesseract_aspnet.Controllers
 {
     public class HomeController : Controller
     {
