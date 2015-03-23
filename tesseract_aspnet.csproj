@@ -222,6 +222,15 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Index.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="tessdata\eng.cube.bigrams" />
+    <Content Include="tessdata\eng.cube.fold" />
+    <Content Include="tessdata\eng.cube.lm" />
+    <Content Include="tessdata\eng.cube.nn" />
+    <Content Include="tessdata\eng.cube.params" />
+    <Content Include="tessdata\eng.cube.size" />
+    <Content Include="tessdata\eng.cube.word-freq" />
+    <Content Include="tessdata\eng.tesseract_cube.nn" />
+    <Content Include="tessdata\eng.traineddata" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

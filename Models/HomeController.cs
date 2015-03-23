@@ -11,18 +11,9 @@ namespace tesseract_aspnet.Models
     {
         //
         // GET: /Home/
-
         public ActionResult Index()
         {
-
             return View("Index");
-
-            
-
         }
-
-       
-
-       
     }
 }
